@@ -1,19 +1,6 @@
 {
   "items": [
-    { 
-      "id": 1,
-      "title": "Google Pixel - Black",
-      "price": 10,
-      "location": "west",
-      "description":
-        "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
-      "category": "electronics",
-      "seller": {"first_name": "first", "last_name": "last", "email": "asdf@bu.edu", "password": "asfdsfdf"},
-      "periodFrom": "2019-02-13",
-      "periodTo": "2019-05-03",
-      "posted": "2019-02-13",
-      "isSold": "false"
-    },
+    { "id": 2, "title": "Post 2" },
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
