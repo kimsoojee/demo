@@ -180,12 +180,6 @@
       "last_name":"last",
       "email":"asdf@bu.edu",
       "password":"asfdsfdf"
-    },
-    {
-      "first_name":"first2",
-      "last_name":"last2",
-      "email":"fsdee@bu.edu",
-      "password":"asfdsfdf"
     }
   ]
 }
