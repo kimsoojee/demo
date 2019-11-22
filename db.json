@@ -176,12 +176,14 @@
   ],
   "users": [
     {
+      "id": 1,
       "firstName":"first",
       "lastName":"last",
       "email":"asdf@bu.edu",
       "password":"asfdsfdf"
     },
     {
+      "id": 2,
       "firstName":"first2",
       "lastName":"last2",
       "email":"fsdee@bu.edu",
