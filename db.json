@@ -180,14 +180,16 @@
       "firstName":"first",
       "lastName":"last",
       "email":"asdf@bu.edu",
-      "password":"asfdsfdf"
+      "password":"asfdsfdf",
+      "favorite": [1,4]
     },
     {
       "id": 2,
       "firstName":"first2",
       "lastName":"last2",
       "email":"fsdee@bu.edu",
-      "password":"asfdsfdf"
+      "password":"asfdsfdf",
+      "favorite": []
     }
   ]
 }
