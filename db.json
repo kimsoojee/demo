@@ -196,41 +196,6 @@
       "img": [
         "https://images.unsplash.com/photo-1560332944-d047e59ac9b2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
       ],
-      "price": 17,
-      "location": "east",
-      "description": "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
-      "category": "clothing",
-      "seller": {
-        "first_name": "first6",
-        "last_name": "last6",
-        "email": "dfeth@bu.edu",
-        "password": "asfdsfdf"
-      },
-      "periodFrom": "2015-12-01",
-      "periodTo": "2016-04-24",
-      "posted": "2015-11-01",
-      "isSold": "false"
-    },
-    {
-      "id": 7,
-      "title": "Iphone 7",
-      "img": [
-        "https://images.unsplash.com/flagged/photo-1570740378156-03b642d70ac4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
-      ],
-      "price": 30,
-      "location": "west",
-      "description": "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
-      "category": "free",
-      "seller": {
-        "first_name": "first7",
-        "last_name": "last7",
-        "email": "ghrgscx@bu.edu",
-        "password": "asfdsfdf"
-      },
-      "periodFrom": "2019-05-03",
-      "periodTo": "2019-08-29",
-      "posted": "2019-05-03",
-      "isSold": "false"
     }],
       "items": null
     }
