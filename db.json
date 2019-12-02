@@ -190,7 +190,7 @@
       "lastName":"last2",
       "email":"fsdee@bu.edu",
       "password":"asfdsfdf",
-      "favorite": null,
+      "favorite": [1,2,3],
       "items": null
     }
   ]
