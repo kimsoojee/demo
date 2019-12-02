@@ -181,7 +181,8 @@
       "lastName":"last",
       "email":"asdf@bu.edu",
       "password":"asfdsfdf",
-      "favorite": [1,4]
+      "favorite": [1,4],
+      "items": null
     },
     {
       "id": 2,
@@ -189,7 +190,8 @@
       "lastName":"last2",
       "email":"fsdee@bu.edu",
       "password":"asfdsfdf",
-      "favorite": []
+      "favorite": null,
+      "items": null
     }
   ]
 }
