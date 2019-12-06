@@ -136,6 +136,7 @@
       "id": 7,
       "title": "Iphone 7",
       "img": [
+        "https://images.unsplash.com/photo-1477948879622-5f16e220fa42?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80",
         "https://images.unsplash.com/flagged/photo-1570740378156-03b642d70ac4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
       ],
       "price": 30,
@@ -151,28 +152,6 @@
       "periodFrom": "2019-05-03",
       "periodTo": "2019-08-29",
       "posted": "2019-05-03",
-      "isSold": "false"
-    },
-    {
-      "id": 8,
-      "title": "Smashed Iphone",
-      "img": [
-        "https://images.unsplash.com/photo-1477948879622-5f16e220fa42?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80",
-        "https://images.unsplash.com/flagged/photo-1570740378156-03b642d70ac4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
-      ],
-      "price": 2,
-      "location": "GSU",
-      "description": "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
-      "category": "electronics",
-      "seller": {
-        "first_name": "first8",
-        "last_name": "last8",
-        "email": "jjnbers@bu.edu",
-        "password": "asfdsfdf"
-      },
-      "periodFrom": "2018-03-02",
-      "periodTo": "2018-03-29",
-      "posted": "2018-03-02",
       "isSold": "false"
     }
   ],
